@@ -1,0 +1,39 @@
+body{
+    background-size:cover;
+    background-position:center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color:chartreuse;
+color:blue;
+}
+.link{
+    background-color: black;
+    border-radius: 10px;
+    width: 80px;
+    float: right;
+}
+#status
+{
+position:absolute;
+bottom:80%;
+left:41%;
+font-size: 18px;
+}
+canvas{
+    box-shadow:10px 10px 10px grey;
+    border-radius:20px;
+    position:absolute;
+    bottom:0px;
+    margin-top:90px;
+}
+.anchor{
+    border-radius:25px;
+    color:crimson;
+    background-color:black;
+    width:17%;
+}
+
